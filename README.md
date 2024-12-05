@@ -1,7 +1,6 @@
 # Kubernetes HPA & Pod Count Dashboard
 
-This repository contains a Grafana dashboard for monitoring Kubernetes Horizontal Pod Autoscaler (HPA) and pod counts. The dashboard provides insights into the desired and current replicas, CPU utilization, and pod statuses.
-
+This repository contains a Grafana dashboard for monitoring Kubernetes Horizontal Pod Autoscaler (HPA) and pod counts. The dashboard provides insights into the desired and current replicas, CPU utilization, and pod statuses. Based on this dashboard which is isn't working current version of grafana https://grafana.com/grafana/dashboards/10257-kubernetes-horizontal-pod-autoscaler/
 ## Dashboard Overview
 
 The dashboard includes the following panels:
@@ -42,6 +41,3 @@ The dashboard includes the following panels:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
