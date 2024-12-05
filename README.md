@@ -15,7 +15,8 @@ The dashboard includes the following panels:
 
 ## Screenshot
 
-![Kubernetes HPA & Pod Count Dashboard](./images/2024-12-05_13-12_1.png)
+![2024-12-05_13-12_1](https://github.com/user-attachments/assets/f20eb5bc-4803-44ef-8c08-010b436019ea)
+
 
 ## How to Use
 
